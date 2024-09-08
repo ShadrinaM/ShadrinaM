@@ -12,9 +12,11 @@
 
 ⚡ Interesting fact: I do music, cosplay and handicrafts
 
+<div align="left">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadrinaM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-<div class="header" align="center">
+<div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Zqc2F6ZGRqMWE3MGk2Y2dka2NnanNwd25pNDYwdWRxMGtzdmpmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lH2kOVYTNZnXqymU7u/giphy.gif" height="150"/>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBnNTJxaGs5azY0ZWUydG42a3ZydXllNjdkbTYwNzdtNXJiYTZtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w1iBPJKwPnGww/giphy.gif" height="150"/>
 </div>
