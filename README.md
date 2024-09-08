@@ -26,7 +26,7 @@
 
 ## Life sense
 <div align="left">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW11Mmc2czVxaWswZWZsMXUxdHBkbXVkcGh5MWs1NHI4c3R3bDkzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xrZuNcEAmTb6U/giphy.gif" height="150"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW11Mmc2czVxaWswZWZsMXUxdHBkbXVkcGh5MWs1NHI4c3R3bDkzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xrZuNcEAmTb6U/giphy.gif" height="120"/>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Zqc2F6ZGRqMWE3MGk2Y2dka2NnanNwd25pNDYwdWRxMGtzdmpmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lH2kOVYTNZnXqymU7u/giphy.gif" height="120"/>
   <!-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBnNTJxaGs5azY0ZWUydG42a3ZydXllNjdkbTYwNzdtNXJiYTZtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w1iBPJKwPnGww/giphy.gif" height="120"/> -->
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZtemJlMXVpYnJyZzZhdGsybzcwMnk5cWgxYjB6N3EyMTlmMzRheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uWcNWtfqzySDYqkORw/giphy.gif" height="120"/>
