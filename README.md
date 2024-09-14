@@ -31,7 +31,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="sqldevelope"  alt="sqldevelope" width="40" height="40"/>&nbsp;
   <br>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40" style="background-color: white;" />
+ <div style="background-color: white; padding: 8px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40" />
+</div>
   <br> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="photoshop"  alt="photoshop" width="40" height="40"/>&nbsp;
 </div>
