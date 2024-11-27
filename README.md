@@ -45,7 +45,7 @@
   <!--   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFmZWhpaXJkbmpmMnE3OGZhMHl1dmN2ZnhqcXFsa3FsZzBxOGt5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9DwQ3VxeLvIKZKgqL3/giphy.gif" height="120"/>   -->
   <img src="d388992c603d0a7303eed9a0237f81f1.gif" height="130"/>
   <!--   <img src="" height="150"/>   -->
-  <div src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJua255am93b3NmdzI5dHJjb245ZGVkN2wyOG5xemF2MGpsNGU0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5QXWRp1CNGnMnZunC3/giphy.webp" height="130"/>
+  <div src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJua255am93b3NmdzI5dHJjb245ZGVkN2wyOG5xemF2MGpsNGU0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5QXWRp1CNGnMnZunC3/giphy-downsized.gif" height="130"/>
 
 </div>
   
