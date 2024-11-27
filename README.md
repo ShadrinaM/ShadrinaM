@@ -45,7 +45,6 @@
   <!--   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFmZWhpaXJkbmpmMnE3OGZhMHl1dmN2ZnhqcXFsa3FsZzBxOGt5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9DwQ3VxeLvIKZKgqL3/giphy.gif" height="120"/>   -->
   <img src="d388992c603d0a7303eed9a0237f81f1.gif" height="130"/>
   <!--   <img src="" height="150"/>   -->
-  <div src="https://github.com/ShadrinaM/ShadrinaM/blob/main/cap.gif" height="130"/>
 
 </div>
   
